@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "690706432539",
+    "project_id": "taxapp-b0b5b",
+    "storage_bucket": "taxapp-b0b5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690706432539:android:78151b51064b1d9b606ebe",
+        "android_client_info": {
+          "package_name": "com.gramseva.gramtax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690706432539-17hb5prrqgijbfur22c4derin96ttfaf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gramseva.gramtax",
+            "certificate_hash": "0b72c3faeb118cdd9643ae0ede78e83aa5212e5d"
+          }
+        },
+        {
+          "client_id": "690706432539-8sn8ovumju2d9lltn22vfhmeh52pjvme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Js3gz4wp38XlIM_EYJzHKqsFh7-DA1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690706432539-8sn8ovumju2d9lltn22vfhmeh52pjvme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
